@@ -1,5 +1,6 @@
 # Periodic Mail Checker
 ## Overview
+![Schematic](/schematic.png)
 
 ## Libraries and APIs used
 ### [ArduinoJson Library](https://github.com/bblanchon/ArduinoJson)
